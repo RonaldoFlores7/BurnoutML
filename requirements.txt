@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+joblib
+scikit-learn
+pandas
+numpy
+python-multipart
+python-dotenv==1.1.0
